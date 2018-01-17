@@ -10,6 +10,8 @@ namespace AppConsole
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("YariMigni2001");
+            Console.ReadLine();
         }
     }
 }
