@@ -11,7 +11,8 @@ namespace AppConsole
         static void Main(string[] args)
         {
             Console.WriteLine("YariMigni2001");
+            Console.WriteLine("ho fatto la modifica");
             Console.ReadLine();
-        }
+                    }
     }
 }
